@@ -149,3 +149,65 @@ header {
 .title{
 padding-left: 40px;
 }
+
+/*  */
+
+.bookContainer{
+  height:80vh;
+  width:95%;
+  margin:auto;
+ 
+  display:flex;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+
+.bookContainer aside{
+  width:42.5%;
+  background:#f8eadd;
+  border-radius:20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  padding:20px 30px;
+flex-grow:1;
+margin:20px 10px;
+}
+
+.bookContainer aside p{
+  line-height:21px;
+}
+
+.floating-toolbar{
+  background:#ffd9d9;
+}
+
+.floating-toolbar-close{
+  background:#ffd9d9;
+
+}
+
+.modal-content-reed{
+  background:#daa4a4;
+
+}
+
+.btn-submit-reed{
+  background:#000;
+}
+.hover-card{
+  background:#f2dfce;
+
+}
+
+.center{
+  text-align:center;
+  font-size:36px;
+  font-weight:300;
+  margin-bottom:4px;
+}
+
+.small{
+  font-size:16px;
+  text-align:center;
+display:block;
+margin-bottom:40px;
+}
