@@ -1,54 +1,58 @@
-
 /* Start Globaly */
-body{
+body {
   background-color: #f2dfce;
 }
+
 /* End Globaly */
 
 
 
 /* header start */
-header{
-display: flex;
-justify-content: space-between;
-align-items: center;
-color: #fff;
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
 }
 
-.left_container{
+.left_container {
   display: flex;
   align-items: center;
 }
 
-.book_app_title{
-margin-right: 2rem;
-color: #000;
+.book_app_title {
+  margin-right: 2rem;
+  color: #000;
 }
-.search_input{
+
+.search_input {
   padding: 0.7rem 1rem;
   margin-left: 3.6rem;
   border-radius: 50px;
-  background-color: rgb(248,234,221);
+  background-color: rgb(248, 234, 221);
   border: 2px solid #000;
   min-width: 320px;
 }
-.right_container{
-display: flex;
-align-items: center;
+
+.right_container {
+  display: flex;
+  align-items: center;
 }
-.avatar_link{
-margin-right: 1rem;
+
+.avatar_link {
+  margin-right: 1rem;
 }
-.avatar_img{
-width: 40px;
-height: 40px;
-border-radius: 50%;
+
+.avatar_img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
 }
 
 /* header end */
 
 /* Body Start */
-.container{
+.container {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -60,31 +64,32 @@ border-radius: 50%;
 .sidebarStyle {
   width: 250px;
   height: 100vh;
-  background-color: '#333';
-  color: '#fff';
-  position: 'fixed';
+  background-color: #333;
+  color: #fff;
+  position: fixed;
   top: 0;
   left: 0;
-  padding: '1rem';
-};
-
+  padding: 1rem;
+}
 
 .listStyle {
-  list-style-type: 'none';
+  list-style-type: none;
   padding: 0;
-  min-width:200px;
-};
+  min-width: 200px;
+}
 
-.listItemStyle{
-  margin-bottom: '1rem';
-  font-size: '1.2rem';
-  padding:'10px';
-  box-shadow: '0px 0px 10px rgba(0, 0, 0, 0.1)';
-  cursor:'pointer';
-  border-radius:'10px';
-};
+
+.listItemStyle {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  border-radius: 10px;
+}
 
 .iconStyle {
   margin-right: 0.5rem;
-};
+}
+
 /* Sidebar End */
