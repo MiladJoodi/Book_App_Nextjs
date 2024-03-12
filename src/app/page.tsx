@@ -20,9 +20,9 @@ export default function Home() {
             <SideBar />
           </section>
 
-          <div>
-            <h1>ALL BOOKS</h1>
-            <ul>
+          <div className="grouper">
+            <h1 className="title">ALL BOOKS</h1>
+            <ul className="ulGroupStyle">
               {
                 books.map((book, i) => (
                   <motion.li

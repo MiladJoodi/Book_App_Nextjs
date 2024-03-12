@@ -113,6 +113,9 @@ header {
   aspect-ratio: 1;
   border-radius: 5px,
 }
+.content{
+  width: 30%;
+}
 
 .contentStyle{
   margin-top: 1rem;
@@ -129,3 +132,20 @@ header {
   color: #888;
 }
 /* Book Card End */
+
+.ulGroupStyle{
+  list-style: none;
+  display: flex ;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.grouper{
+  background-color: #f8eadd;
+  margin: 0 30px;
+  padding: 10px 1px;
+  border-radius: 20px;
+}
+.title{
+padding-left: 40px;
+}
