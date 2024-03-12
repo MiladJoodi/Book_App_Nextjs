@@ -93,3 +93,39 @@ header {
 }
 
 /* Sidebar End */
+
+/* Book Card Start */
+.cardStyle {
+  width: 200px;
+  padding: 1rem;
+  border-radius: 5px;
+  background-color: #f8eadd;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  margin-bottom: 1.5rem;
+  margin-right: 1.6rem;
+  list-style-type: none;
+}
+
+.imageStyle {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 5px,
+}
+
+.contentStyle{
+  margin-top: 1rem;
+}
+
+.titleStyle {
+  font-size: 1.2rem;
+  margin-bottom: '0.5rem';
+  color:#000;
+}
+
+.descriptionStyle {
+  font-size: 0.8rem;
+  color: #888;
+}
+/* Book Card End */

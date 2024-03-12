@@ -65,7 +65,7 @@ export const books = [
         <p>
         However, their love is also fraught with danger and secrecy due to the feud between their families, the Montagues and Capulets. Despite the risks, Romeo and Juliet are willing to defy societal norms and family expectations to be together. Their clandestine marriage in Act 2 symbolizes their commitment to each other, but it also sets the stage for the tragic events that follow.
         </p>`},
-    { id: 3,author:'Jim Beam', title: 'My cover',image:'https://edit.org/images/cat/book-covers-big-2019101610.jpg' , description:'A book review is a form of literary criticism in which a book is merely described or analyzed. ',content:`<p>
+    { id: 3,author:'Jim Beam', title: 'My cover',image:'https://m.media-amazon.com/images/I/71NcPgn8KJL._AC_UF1000,1000_QL80_.jpg' , description:'A book review is a form of literary criticism in which a book is merely described or analyzed. ',content:`<p>
     It provides readers with a comprehensive framework for understanding and harnessing the power of habits to achieve personal and professional goals. By emphasizing the significance of small, incremental changes and providing actionable strategies for habit formation, Clear empowers individuals to cultivate habits that lead to meaningful and lasting transformations in their lives.
         </p>
         <p>
@@ -295,7 +295,7 @@ export const books = [
         <p>
         However, their love is also fraught with danger and secrecy due to the feud between their families, the Montagues and Capulets. Despite the risks, Romeo and Juliet are willing to defy societal norms and family expectations to be together. Their clandestine marriage in Act 2 symbolizes their commitment to each other, but it also sets the stage for the tragic events that follow.
         </p>`},
-     { id: 10,author:'William Shakespeare', title: 'My cover',image:'https://edit.org/images/cat/book-covers-big-2019101610.jpg' , description:'A book review is a form of literary criticism in which a book is merely described or analyzed. ',content:`<p>
+     { id: 10,author:'William Shakespeare', title: 'My cover',image:'https://m.media-amazon.com/images/I/51QYY0QYDEL._AC_UF1000,1000_QL80_.jpg' , description:'A book review is a form of literary criticism in which a book is merely described or analyzed. ',content:`<p>
         William Shakespeare's "Romeo and Juliet" is a timeless tale of love, fate, and tragedy that has captivated audiences for centuries. Set in Verona, Italy, the play tells the story of two young lovers from feuding families, whose passion ultimately leads to their untimely deaths. Through rich language, vivid characters, and poignant themes, Shakespeare explores the complexities of human emotion and the consequences of impulsive actions.
         </p>
         <p>
