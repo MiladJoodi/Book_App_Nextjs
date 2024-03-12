@@ -54,7 +54,7 @@ header {
 /* Body Start */
 .container {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   align-items: flex-start;
 }
 
